@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "kode": "OB-001",
+    "nama": "Obat Batuk Sirup",
+    "category_id": 1,
+    "satuan": "botol",
+    "harga_modal": 8000,
+    "harga_jual": 10000,
+    "stok": 25
+  },
+  {
+    "id": 2,
+    "kode": "OB-002",
+    "nama": "Obat Sakit Kepala",
+    "category_id": 1,
+    "satuan": "strip",
+    "harga_modal": 3000,
+    "harga_jual": 4500,
+    "stok": 40
+  },
+  {
+    "id": 3,
+    "kode": "OB-003",
+    "nama": "Vitamin C",
+    "category_id": 1,
+    "satuan": "strip",
+    "harga_modal": 9000,
+    "harga_jual": 12000,
+    "stok": 4
+  },
+  {
+    "id": 4,
+    "kode": "OB-004",
+    "nama": "Obat Maag",
+    "category_id": 1,
+    "satuan": "strip",
+    "harga_modal": 4000,
+    "harga_jual": 6000,
+    "stok": 30
+  },
+  {
+    "id": 5,
+    "kode": "OB-005",
+    "nama": "Salep Kulit",
+    "category_id": 1,
+    "satuan": "tube",
+    "harga_modal": 7000,
+    "harga_jual": 10000,
+    "stok": 18
+  },
+  {
+    "id": 6,
+    "kode": "HB-001",
+    "nama": "Jamu Pegal Linu",
+    "category_id": 2,
+    "satuan": "sachet",
+    "harga_modal": 2000,
+    "harga_jual": 3000,
+    "stok": 60
+  },
+  {
+    "id": 7,
+    "kode": "HB-002",
+    "nama": "Madu Herbal",
+    "category_id": 2,
+    "satuan": "botol",
+    "harga_modal": 30000,
+    "harga_jual": 38000,
+    "stok": 12
+  },
+  {
+    "id": 8,
+    "kode": "HB-003",
+    "nama": "Minyak Angin",
+    "category_id": 2,
+    "satuan": "botol",
+    "harga_modal": 5000,
+    "harga_jual": 7500,
+    "stok": 35
+  },
+  {
+    "id": 9,
+    "kode": "HB-004",
+    "nama": "Herbal Tenggorokan",
+    "category_id": 2,
+    "satuan": "sachet",
+    "harga_modal": 1500,
+    "harga_jual": 2500,
+    "stok": 5
+  },
+  {
+    "id": 10,
+    "kode": "HB-005",
+    "nama": "Kapsul Herbal",
+    "category_id": 2,
+    "satuan": "botol",
+    "harga_modal": 20000,
+    "harga_jual": 27000,
+    "stok": 15
+  },
+  {
+    "id": 11,
+    "kode": "KS-001",
+    "nama": "Sabun Wajah",
+    "category_id": 3,
+    "satuan": "tube",
+    "harga_modal": 15000,
+    "harga_jual": 20000,
+    "stok": 20
+  },
+  {
+    "id": 12,
+    "kode": "KS-002",
+    "nama": "Pelembap",
+    "category_id": 3,
+    "satuan": "botol",
+    "harga_modal": 25000,
+    "harga_jual": 33000,
+    "stok": 14
+  },
+  {
+    "id": 13,
+    "kode": "KS-003",
+    "nama": "Tabir Surya",
+    "category_id": 3,
+    "satuan": "tube",
+    "harga_modal": 30000,
+    "harga_jual": 40000,
+    "stok": 3
+  },
+  {
+    "id": 14,
+    "kode": "KS-004",
+    "nama": "Lip Balm",
+    "category_id": 3,
+    "satuan": "pcs",
+    "harga_modal": 8000,
+    "harga_jual": 12000,
+    "stok": 22
+  },
+  {
+    "id": 15,
+    "kode": "KS-005",
+    "nama": "Bedak Tabur",
+    "category_id": 3,
+    "satuan": "pcs",
+    "harga_modal": 12000,
+    "harga_jual": 17000,
+    "stok": 10
+  }
+]
